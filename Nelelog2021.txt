@@ -1,2 +1,5 @@
 #07.05.21
 #Balsaproject
+Finished tiping in the data for the 3 triangulations
+Connected my PC to Github.
+Checked Triangulation data with Alexander to answer the questions that are unclear.
